@@ -16,4 +16,5 @@ body{
     font-family: var(--font-primary);
     /* overflow: hidden; */
     overflow-x:hidden;
+    background-color: #323232;
 }
